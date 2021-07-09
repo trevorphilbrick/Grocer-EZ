@@ -1,0 +1,9 @@
+TO DO 
+
+** Create initial application
+*** Input feild that updates state of "item"
+*** Button that pushes "item" to array of food. 
+*** Map array of "items" in a flatlist
+
+
+ 
