@@ -15,7 +15,7 @@ function ListofItems(props) {
         elevation: 0,
       }}
     >
-      <ScrollView>
+      <ScrollView showsVerticalScrollIndicator={true}>
         <Card.Title style={{ color: "#bb86fc" }}>Groceries</Card.Title>
         <Card.Divider />
         <ItemList itemsList={itemsList} removeItem={props.removeItem} />
